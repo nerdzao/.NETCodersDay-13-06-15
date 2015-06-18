@@ -7,8 +7,7 @@
 <a id="user-content-palestras" class="anchor" href="#palestras" aria-hidden="true">
 <span class="octicon octicon-link"></span></a>Sobre</h2>
 <p> Olá, mais um evento da <a href="https://www.facebook.com/DotNetCoders" target="_blank">Comunidade .NET Coders</a>, desta vez, um dia inteiro de apresentações,
-palestras e mini cursos gratuitos, realizados dia 13/06/2015 no CT da <a href="https://www.facebook.com/ctnovatec" target="_blank">Editora Novatec</a>, aqui estão todas as apresentações e 
-repositorios de cada Instrutor/Palestrante.</p>
+palestras e mini cursos gratuitos, realizados dia 13/06/2015 no CT da <a href="https://www.facebook.com/ctnovatec" target="_blank">Editora Novatec</a>. Contamos com a presença do Fotógrafo <a href="https://www.facebook.com/higor.nayde" target="_blank">Higor Nayde</a> cobrindo parte do evento.</p>
 
 <h2><a id="user-content-palestras" class="anchor" href="#palestras" aria-hidden="true">
 <span class="octicon octicon-link"></span></a>Palestras</h2>
