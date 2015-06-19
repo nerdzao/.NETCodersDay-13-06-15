@@ -14,7 +14,7 @@ palestras e mini cursos gratuitos, realizados dia 13/06/2015 no CT da <a href="h
 
 <ul>
 	<li>
-		<a href="http://bit.ly/NetcodersDay-Photos" target="_blank">Fotos do Evento</a> por <a href="https://www.facebook.com/higor.nayde" target="_blank">Higor Nayde 
+		<a href="https://goo.gl/photos/SJ9zWCSYuRypqmDT7" target="_blank">Fotos do Evento</a> por <a href="https://www.facebook.com/higor.nayde" target="_blank">Higor Nayde 
 	</a> e outros.
 </li>
 </ul>
